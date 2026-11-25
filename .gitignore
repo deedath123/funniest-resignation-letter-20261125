@@ -1,0 +1,4 @@
+entry.txt
+__pycache__/
+*.pyc
+.output/
